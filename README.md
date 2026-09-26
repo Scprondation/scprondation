@@ -1,3 +1,9 @@
+<img width="150" height="422" alt="1783755824_new_1" src="https://github.com/user-attachments/assets/7afaff1a-d7ed-4991-8d02-86703c7a9993" />
+<img width="150" height="422" alt="1783756241_new_2" src="https://github.com/user-attachments/assets/70245df2-16b8-42d0-b24c-f486083c5324" />
+<img width="150" height="422" alt="1783755518_new_3" src="https://github.com/user-attachments/assets/3cf6c223-2897-4398-8941-e82030dc5ef3" />
+<img width="150" height="422" alt="1783755518_new_4" src="https://github.com/user-attachments/assets/ac92ab47-4070-4277-a5b8-a529d2fb63ad" />
+<img width="150" height="422" alt="1783755518_new_5" src="https://github.com/user-attachments/assets/2f0a4661-7d4e-4d7f-b09e-7dde6b43ba19" />
+
 Использую для проектов:
 
 <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/ed44fe5b-e9cd-40da-8ced-1f474dc8fbef"/>
@@ -22,3 +28,8 @@
 <img width="32" height="32" alt="изображение" src="https://github.com/user-attachments/assets/745d1522-68be-4df8-9803-e2648af1ddd9" />
 
 
+
+Люблю Code geass
+
+
+<img width="360" height="220" alt="ezgif-7d1244024bd7da74" src="https://github.com/user-attachments/assets/c46355d0-976d-42b2-9158-d7ca7808edaa" />
